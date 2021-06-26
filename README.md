@@ -1,5 +1,5 @@
 # STOCKMARKET-PREDICTION-USING-LSTM
-#Prediction of TATA GLOBAL BEVARAGES for next 30 days.
+#Prediction of stock for next 30 days.
 #IMPORTING LIBRARIES
 from matplotlib import pyplot as plt
 from sklearn import model_selection
